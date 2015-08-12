@@ -1,11 +1,11 @@
 # Site settings
 title: Hosted Web Apps
-baseurl: "/WebAppsDocs"
+baseurl: "/en-US/win10/HWA.htm"
 description: > # this means to ignore newlines until "baseurl:"
   Hosted Web Apps on Windows 10, also known as Project Westminster, provides instructions for how to add your app to the Windows Store and Universal Windows Platform. This line will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-landingurl: "/WebAppsDocs/en-US/win10/CreateHWA.htm"
-url: "http://mattwojo.github.io/WebAppsDocs" # the base hostname & protocol for your site
+landingurl: "/en-US/win10/HWA.htm"
+url: "http://mattwojo.github.io/en-US/win10/HWA.htm" # the base hostname & protocol for your site
 twitter_username: MicrosoftEdge
 github_username:  MicrosoftEdge
 # Build settings
