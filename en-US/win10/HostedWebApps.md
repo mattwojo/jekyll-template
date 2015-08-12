@@ -1,3 +1,9 @@
+---
+layout: default
+title: UWP Bridge for web apps
+permalink: /en-US/win10/HWA.htm
+lang: en-US
+---
 
 <div class="row section-heading">
     <div class="col-md-6">
